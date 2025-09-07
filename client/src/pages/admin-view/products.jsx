@@ -6,7 +6,12 @@ function AdminProducts() {
     return (
         <Fragment>
             <div className='mb-5 w-full flex justify-end'>
+
+
                 <Button>Add New Product</Button>
+            </div>
+            <div>
+                this is product page
             </div>
         </Fragment>
     )
